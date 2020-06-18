@@ -15,7 +15,7 @@ class App extends React.Component {
           <Route path="/:category">
             <Breadcrumbs/>
             <SideBar>
-              <Products />
+
             </SideBar>
           </Route>
 
