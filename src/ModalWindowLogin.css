@@ -1,0 +1,39 @@
+.modal-card-head,
+.modal-card-body,
+.modal-card-foot{
+  background:
+  linear-gradient(
+  rgba(246,247,249,0.3),
+  rgba(246,247,249,0.3)),
+  url(a.jpg) no-repeat center center fixed;
+background-size: cover;
+}
+.modal-card-body {
+  display: flex;
+  height: 250px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.modal-card-foot {
+  display: flex;
+  justify-content: center !important
+}
+.is-static {
+  border-bottom: 1px solid black;
+}
+input {
+  height: 42px;
+  padding: 0 42px 0 15px;
+  font-family: 'Montserrat', sans-serif !important;
+  border: none;
+  border-bottom: 2px solid transparent;
+  outline: none;
+  background: transparent;
+  transition: .4s cubic-bezier(0, 0.8, 0, 1);
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-bottom: 2px solid green;
+  width: 200px;
+}

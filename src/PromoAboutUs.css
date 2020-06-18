@@ -1,0 +1,21 @@
+.two {
+  background: url(222.jpg);
+  min-height: 450px;
+  background-attachment: fixed;
+}
+.about-us {
+  background-color: rgb(0%, 0%, 0%, 0.23);
+  padding: 20px;
+}
+.about-us:hover {
+  transform: scale(1.05);
+  transition: all 0.5s;
+}
+.store-description p {
+  color: white;
+  font-size: 20px;
+}
+.title-about {
+  font-size: 60px;
+  color: white;
+}

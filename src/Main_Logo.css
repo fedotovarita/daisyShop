@@ -1,0 +1,10 @@
+.title {
+  padding-top: 48px;
+}
+.hero-body {
+  padding-left: 0 !important;
+}
+.greet {
+  background-image: url(awesome-echeveria-pack_2000x.gif);
+  background-size: 100%;
+}

@@ -1,0 +1,19 @@
+a {
+  color: black !important;
+}
+.card-footer-item:hover {
+  transform: scale(1.08);
+}
+.div-flower {
+  max-width: 650px;
+  max-height: 650px;
+}
+.button-section {
+  border-bottom: none;
+}
+.text-size {
+  padding: 1.5rem;
+}
+.facts-div {
+  font-size: 60px;
+}

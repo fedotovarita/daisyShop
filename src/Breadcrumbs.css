@@ -1,0 +1,12 @@
+.breadcrumbs-ul{
+  padding: 20px;
+}
+.for-crumbs {
+  border-bottom: none;
+}
+a {
+  color: black !important;
+}
+.breadcrumbs-ul a:hover  {
+  transform: scale(1.08);
+}
